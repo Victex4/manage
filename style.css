@@ -346,7 +346,7 @@ footer .mail .copyright{
 #myBtn {
     display: none; /* Hidden by default */
     position: fixed; /* Fixed/sticky position */
-    bottom: 20px; /* Place the button at the bottom of the page */
+    bottom: 80px; /* Place the button at the bottom of the page */
     right: 30px; /* Place the button 30px from the right */
     z-index: 99; /* Make sure it does not overlap */
     border: none; /* Remove borders */
@@ -354,8 +354,8 @@ footer .mail .copyright{
     background-color: #F25F3A; /* Set a background color */
     color: white; /* Text color */
     cursor: pointer; /* Add a mouse pointer on hover */
-    padding: 15px; /* Some padding */
-    border-radius: 35px; /* Rounded corners */
+    padding: 15px 18px; /* Some padding */
+    border-radius: 50px; /* Rounded corners */
     font-size: 18px; /* Increase font size */
   }
   
